@@ -30,7 +30,7 @@ Andhikasuryanto.id@gmail.com
     </tr>
     <tr>
       <td valign="text-top">One bit pong</td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">Moncsrolls</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-1BitPong-Project">Read More</a></td> <!--link1-->
