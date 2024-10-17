@@ -30,7 +30,7 @@ Andhikasuryanto.id@gmail.com
     </tr>
     <tr>
       <td valign="text-top">1 Bit Pong is a simple Pong game with a 1 Bit Dungeon Crawler theme. 1 Bit Pong use a dark and mysterious atmosphere, also the Ping Pong board will give you a distinctive feeling.</td> <!--desc-->
-      <td valign="text-top">Moncsrolls</td> <!--desc-->
+      <td valign="text-top">Work in Progress</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-1BitPong-Project">Read More</a></td> <!--link1-->
