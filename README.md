@@ -29,7 +29,7 @@ Andhikasuryanto.id@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">One bit pong</td> <!--desc-->
+      <td valign="text-top">1 Bit Pong is a simple Pong game with a 1 Bit Dungeon Crawler theme with a dark and mysterious atmosphere and the Ping Pong board will give you a distinctive feeling.</td> <!--desc-->
       <td valign="text-top">Moncsrolls</td> <!--desc-->
     </tr>
     <tr>
