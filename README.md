@@ -53,7 +53,7 @@ Andhikasuryanto.id@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/Andhika-Suryanto/Andhika-Suryanto/blob/main/Gif/1bitpong2024.10.17-11.49.47.02-ezgif.com-speed.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Andhika-Suryanto/Andhika-Suryanto/blob/main/Gif/Recording2024-11-14125932.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="" alt="2" style="width:100%;height:auto;">
