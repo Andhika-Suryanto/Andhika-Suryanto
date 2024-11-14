@@ -38,3 +38,34 @@ Andhikasuryanto.id@gmail.com
     </tr>
   </tbody>
 </table>
+
+
+<br>
+
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Astro Glide</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Moncsrolls</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Andhika-Suryanto/Andhika-Suryanto/blob/main/Gif/1bitpong2024.10.17-11.49.47.02-ezgif.com-speed.gif" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">Astro Glide is a fast-paced 2D space shooter. Players pilot a spaceship, blasting through waves of enemies and dodging incoming attacks. With increasing difficulty, the goal is simple: survive and rack up the highest score!</td> <!--desc-->
+      <td valign="text-top">Work in Progress</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-AstroGlide-Project">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-Moncsrolls-Project">Read More</a></td> <!--link2-->
+    </tr>
+  </tbody>
+</table>
