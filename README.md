@@ -47,7 +47,7 @@ Andhikasuryanto.id@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Astro Glide</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Moncsrolls</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Peril's Path</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -56,16 +56,16 @@ Andhikasuryanto.id@gmail.com
         <img src="https://github.com/Andhika-Suryanto/Andhika-Suryanto/blob/main/Gif/Recording2024-11-14125932.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Andhika-Suryanto/Andhika-Suryanto/blob/main/Gif/PerilsPath2024.11.24-17.45.16.02-ezgif.com-video-to-gif-converter.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
       <td valign="text-top">Astro Glide is a fast-paced 2D space shooter. Players pilot a spaceship, blasting through waves of enemies and dodging incoming attacks. With increasing difficulty, the goal is simple: survive and rack up the highest score!</td> <!--desc-->
-      <td valign="text-top">Work in Progress</td> <!--desc-->
+      <td valign="text-top">Peril's Path is a 2D RPG featuring simple yet engaging combat. Players embark on a journey through treacherous lands, battling monsters, collecting loot, and survive their character. With easy-to-learn mechanics and a focus on strategy and collect the coin for made best high score, players must navigate challenges and uncover the secrets of the perilous path ahead.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-AstroGlide-Project">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-Moncsrolls-Project">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-PerilsPath-Project">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
