@@ -16,7 +16,7 @@ Andhikasuryanto.id@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>One Bit Pong</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Moncsrolls</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Biomorph</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -34,7 +34,7 @@ Andhikasuryanto.id@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-1BitPong-Project">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-Moncsrolls-Project">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-Biomorph-Project">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
