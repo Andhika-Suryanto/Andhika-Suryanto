@@ -69,3 +69,33 @@ Andhikasuryanto.id@gmail.com
     </tr>
   </tbody>
 </table>
+
+<br>
+
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Perilsiums</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>WIP</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Andhika-Suryanto/Andhika-Suryanto/blob/main/Gif/Perilsiums%202024.12.11%20-%2007.58.15.01%20(1)%20(online-video-cutter.com).gif" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/Andhika-Suryanto/Andhika-Suryanto/blob/main/Gif/wallpaperflare.com_wallpaper%20(1).jpg" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">Embark on an epic journey in Perilsiums, a 2D top-down RPG currently in development. In this early build, players can explore the Forest, a lush and mysterious region with four distinct areas to traverse—from the Forest Spawn Point to the thrilling showdown in the Boss Field against the mighty Slime Urn.</td> <!--desc-->
+      <td valign="text-top">WIP</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-AstroGlide-Project">Read More</a></td> <!--link1-->
+      <td align="center"><a href="WIP">Read More</a></td> <!--link2-->
+    </tr>
+  </tbody>
+</table>
