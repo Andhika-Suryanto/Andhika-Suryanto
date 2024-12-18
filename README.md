@@ -94,7 +94,7 @@ Andhikasuryanto.id@gmail.com
       <td valign="text-top">WIP</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GPC-AstroGlide-Project">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Andhika-Suryanto/2D-GDC-Perilsiums-Project">Read More</a></td> <!--link1-->
       <td align="center"><a href="WIP">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
